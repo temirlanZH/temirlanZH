@@ -1,4 +1,4 @@
-### Zhanatbek Temirlan 👋
+## Zhanatbek Temirlan 👋
 Hello Everyone! I'M Zhanatbek Temirlan Front-End Developer With Over 3 Months Experience.👨‍💻
 ### About me👨‍💻
 ### Front-End Developer With Over 3 Months Experience. Design, 
@@ -24,11 +24,11 @@ Language and Tools: 👨‍🎓
 ### Bootstrap 25.34% ---
 
 ### Contact Me 👀
-# Github: https://github.com/temirlanZH
-# Gmail: temirlan.zh.net@gmail.com
-# Facebook: https://www.facebook.com/profile.php?id=100076560672572
-# Instagram: https://www.instagram.com/while_junior/
-# LinkedIn: https://www.linkedin.com/in/temirlan-zhanatbek-837207223/
+### Github: https://github.com/temirlanZH
+### Gmail: temirlan.zh.net@gmail.com
+### Facebook: https://www.facebook.com/profile.php?id=100076560672572
+### Instagram: https://www.instagram.com/while_junior/
+### LinkedIn: https://www.linkedin.com/in/temirlan-zhanatbek-837207223/
 
 ### My Portfolio site 👾
 https://temirlanzh.github.io/.net/ 
