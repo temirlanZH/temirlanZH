@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Zhanatbek Temirlan 
+## Hi there 👋, I'm Zhanatbek Temirlan 
 #### Front-End Developer With Over 3 Months Experience.👨‍💻
 ![Front-End Developer With Over 3 Months Experience.👨‍💻](https://media-exp1.licdn.com/dms/image/C5616AQFjtMpwo-hN7g/profile-displaybackgroundimage-shrink_200_800/0/1642003266920?e=1647475200&v=beta&t=7YMRTE4ZroyN2CtylRuBZIShF40X3tiZ2OGiCoOmtpI)
 
