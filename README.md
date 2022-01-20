@@ -2,11 +2,11 @@
 # Hi there 👋, I'm Zhanatbek Temirlan 
 
 #### Front-End Developer With Over 3 Months Experience.👨‍💻 Design,
-Development, Deployment And Support Of Desktop, Web Mobile Applications, Figma & Tilda Development.
-Front-End Developer Skills Include:
-• Languages: JavaScript, HTML5, CSS3, Python.
-• Frameworks: React.Js, Bootstrap, JQuery, Sass.
-• Layouts: Figma, Tilda.
+#### Development, Deployment And Support Of Desktop, Web Mobile Applications, Figma & Tilda Development.
+#### Front-End Developer Skills Include:
+#### • Languages: JavaScript, HTML5, CSS3, Python.
+#### • Frameworks: React.Js, Bootstrap, JQuery, Sass.
+#### • Layouts: Figma, Tilda.
 Website Development: 👨‍🎓
 
 Developed A Portfolio Site.
