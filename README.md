@@ -29,3 +29,5 @@ Skills: PYTHON / REACT / JS / HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/temirlanZH)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=temirlanZH)  
+
+![Profile views](https://gpvc.arturio.dev/temirlanZH)  
