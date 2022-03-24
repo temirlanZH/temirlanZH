@@ -1,16 +1,11 @@
 # Hi everyone👋, I'm Temirlan Zhanatbek
 ![](https://media-exp1.licdn.com/dms/image/C5616AQHc7GN_DkYCyA/profile-displaybackgroundimage-shrink_200_800/0/1643287416406?e=1648684800&v=beta&t=410DUUuPMn-3jtiJOV5SYSCsKYf0sEnLFKpIBPr72-U)
 
-## Front-End Developer With Over 5 Months Experience.👨‍💻 
-Web Mobile Applications, Figma & Tilda Development.
+## Front-End Developer With Over 3 Months Experience.👨‍💻 
+I love to learn something new. I want to become a Full Stack developer. I am still young, but I have a big goal that I will definitely achieve 🌱
+Front-End Developer Skills Include: • Languages: JavaScript, HTML5, CSS3 + Bonus: Python. • Frameworks: Sass, Scss. • Layouts: Figma.
 
-Front-End Developer Skills Include:
-• Languages: JavaScript, HTML5, CSS3 + Bonus: Python.
-• Frameworks: React.Js, Bootstrap, JQuery, Sass.
-• Layouts: Figma, Tilda.
-Website Development: 👨‍🎓
-
-Developed A Portfolio Site. Developed A Website For A Restaurant. Developed A Website To Promote The Film. Designed 5 Complex Websites With Layouts Using HTML5, CSS3 And JavaScript. Developed The Telegram Bot. Language and Tools: 👨‍🎓
+Website Development: 👨‍🎓 Developed A Portfolio Site. Developed A Website For A Restaurant. Developed A Website To Promote The Film. Designed 5 Complex Websites With Layouts Using HTML5, CSS3 And JavaScript. Developed The Telegram Bot. Language and Tools: 👨‍🎓
 
 ### Skills: PYTHON / REACT / JS / HTML / CSS
 
