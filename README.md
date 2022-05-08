@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Temirlan
-#### Front-End Developer(Begginer)👨‍💻
+# Hi there 👋, I'm Temirlan
+## Front-End Developer(Begginer)👨‍💻
 I love to learn something new. I want to become a Full Stack developer. I'm still young, but I have a big goal that i will definitely achieve..
 
 Skills: JS / HTML / CSS
