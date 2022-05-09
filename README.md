@@ -1,4 +1,5 @@
-![1dddde5024972190812d26a5be19d753](https://user-images.githubusercontent.com/86709653/167457906-a8a7d1fb-15dd-4953-825e-262d4be0ffa6.jpg)
+![1dddde5024972190812d26a5be19d753 (2)](https://user-images.githubusercontent.com/86709653/167458477-f15a9052-465d-4a4a-8fa0-eeb4ba2289a6.jpg)
+
 
 # Hi there 👋, I'm Temirlan
 ## Front-End Developer(Begginer)👨‍💻
