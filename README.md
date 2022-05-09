@@ -1,4 +1,5 @@
-![photo_2021-11-23_04-05-03](https://user-images.githubusercontent.com/86709653/167456869-f8e597e1-6d62-4071-80bb-0a2d32c6b1cf.jpg)
+![1dddde5024972190812d26a5be19d753](https://user-images.githubusercontent.com/86709653/167457906-a8a7d1fb-15dd-4953-825e-262d4be0ffa6.jpg)
+
 # Hi there 👋, I'm Temirlan
 ## Front-End Developer(Begginer)👨‍💻
 I love to learn something new. I want to become a Full Stack developer. I'm still young, but I have a big goal that i will definitely achieve..
