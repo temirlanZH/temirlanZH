@@ -1,7 +1,7 @@
 
 # Hi there 👋, I'm Temirlan
 ## Front-End Developer(Begginer)👨‍💻
-![IMG-20210826-WA0018 (2)](https://user-images.githubusercontent.com/86709653/167458572-f3580f13-9f1b-4664-aab5-1df4e597d8a4.jpg)
+![space](https://user-images.githubusercontent.com/86709653/171902261-41fcbaf3-ab05-4f15-8a8f-46e6b6946dd1.jpg)
 I love to learn something new. I want to become a Full Stack developer. I'm still young, but I have a big goal that i will definitely achieve..
 
 Skills: JS / HTML / CSS / PYTHON
